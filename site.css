@@ -6,9 +6,6 @@ body {
     padding: 3px;
 }
 
-div{
-    text-align: center
-}
 #main {
     padding: 5px;
     padding-left:  15px;
@@ -92,7 +89,12 @@ pre {
   background-color: #8ec3eb;
 }
 
+div{
+  text-align: center;
+}
 
 body {
   overflow-y: scroll;
 }
+
+
