@@ -6,6 +6,9 @@ body {
     padding: 3px;
 }
 
+div{
+    text-align: center;
+}
 #main {
     padding: 5px;
     padding-left:  15px;
