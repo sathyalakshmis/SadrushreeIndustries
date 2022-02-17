@@ -6,6 +6,11 @@ body {
     padding: 3px;
 }
 
+img1 {
+    width: 100%;
+    height: auto;
+}
+
 #main {
     padding: 5px;
     padding-left:  15px;
